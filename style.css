@@ -12,7 +12,7 @@ h1 {
 
 h3 {
     float: center;
-    width: 70%;
+    width: 71%;
 }
 
 .header {
@@ -34,7 +34,7 @@ h3 {
     box-shadow: 0 10px 10px -10px #8c8b8b inset;
 }
 
-img {
+.main__content__foto {
     float: left;
     width: 40%;
     margin-top: 14%;
